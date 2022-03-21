@@ -56,6 +56,16 @@ python3 manager.py runserver
 
 
 
+<h2> <img align="center" alt="Marcos-Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> Comandos do projeto Django</h2>
+
+**Criação de Apps**
+
+```
+django-admin startapp nome_do_app
+```
+
+
+
 ## :key: Credenciais da Aplicação Django
 
 **Url do servidor**
