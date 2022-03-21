@@ -26,7 +26,9 @@ virtualenv nome_do_projeto
 
 **Ativando VIrtualenv**
 
+```
 source nome_do_projeto/bin/active
+```
 
 
 
