@@ -8,8 +8,7 @@ Esta aplicação é um portfolio utilizando o django framework sob objetivo de e
 
 
 <h2> <img align="center" alt="Marcos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Comandos da Virtualenv
-
-**Instalando Virtualenv: **
+**Instalando Virtualenv**
 
 ``` 
 pip install virtualenv
@@ -28,7 +27,6 @@ source nome_do_projeto/bin/active
 
 
 <h2> <img align="center" alt="Marcos-Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> Comandos do Django
-
 **Instalando Django**
 
 ```
@@ -68,4 +66,4 @@ localhost:8000
 
 ## :paperclip: Links Utéis
 
-**Doc. Django: ** https://www.djangoproject.com/start/
+**Doc. Django:** https://www.djangoproject.com/start/
